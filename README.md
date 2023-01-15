@@ -1,0 +1,1 @@
+This repository contains date-wise arranged logo and resources for Vedka.

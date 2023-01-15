@@ -1,0 +1,1 @@
+All resource within logo.psd file, however, please install Gatwick Bold font before opening .psd file.
